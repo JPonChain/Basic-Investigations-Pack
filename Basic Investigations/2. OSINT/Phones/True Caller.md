@@ -1,0 +1,1 @@
+[True Caller](https://www.truecaller.com/search/) is an app that, upon installing, the users give up their contact lists and names associated with numbers. True Caller is a good platform to check but is dependant on people using the True Caller app and having the number saved alongside a name
